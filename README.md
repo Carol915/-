@@ -1,8 +1,8 @@
 # 60 Days of LeetCode / 代码随想录算法训练营 学习笔记 
 
-## About
+## Introduction
 
-Welcome to my 60-day challenge of solving LeetCode algorithm problems! This project is aimed at enhancing my problem-solving and coding skills by tackling a variety of algorithmic challenges from LeetCode every day. 
+Welcome to my journey through a 60-day LeetCode challenge! My aim is to enhance my problem-solving abilities and coding proficiency by engaging with a diverse range of algorithmic challenges on LeetCode daily. The structure of this endeavor is inspired by Carl's "Programming Thoughts 代码随想录" (found at programmercarl.com), which thoughtfully compiles and categorizes 150 classic LeetCode questions, offering a more systematic approach to learning.
 
 ### What is LeetCode?
 
@@ -10,7 +10,7 @@ Welcome to my 60-day challenge of solving LeetCode algorithm problems! This proj
 
 ### Challenge Goal
 
-My goal is to solve one or more LeetCode problems every day for 60 days, and achieve in total **150 Leetcode problems** by the end of the challenge. This challenge is not just about solving problems but also about understanding and learning different algorithms and data structures.
+My goal is to solve one or more LeetCode problems every day for 60 days, and achieve in total **150 Leetcode problems** by the end of the challenge. For each problem, I intend to explore it in-depth, **employing various methods** and **documenting my learning process through comprehensive study notes** (this is the essence of my solutions). This challenge is not just about solving problems but also about understanding and learning different algorithms and data structures.
 
 ## Progress
 
