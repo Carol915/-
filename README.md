@@ -10,7 +10,7 @@ Welcome to my 60-day challenge of solving LeetCode algorithm problems! This proj
 
 ### Challenge Goal
 
-My goal is to solve one or more LeetCode problems every day for 60 days. This challenge is not just about solving problems but also about understanding and learning different algorithms and data structures.
+My goal is to solve one or more LeetCode problems every day for 60 days, and achieve in total **150 Leetcode problems** by the end of the challenge. This challenge is not just about solving problems but also about understanding and learning different algorithms and data structures.
 
 ## Progress
 
