@@ -14,8 +14,8 @@ My goal is to solve one or more LeetCode problems every day for 60 days. This ch
 
 ## Progress
 
-- **Day 1**: [Array Part01](link-to-problem) - [Solution](https://github.com/Carol915/60-Days-of-Leetcode-/blob/main/Solutions/Day1%20Array01%20%7C%20704.%20Binary%20Search,%2035,%2034,%2027.%20Remove%20Elements%20.py)
-- **Day 2**: [Problem Name](link-to-problem) - [Solution](link-to-your-solution)
+- **Day 1**: Array Part01 | 704. Binary Search, 35, 34, 27. Remove Elements - [Solution](https://github.com/Carol915/60-Days-of-Leetcode-/blob/main/Solutions/Day1%20Array01%20%7C%20704.%20Binary%20Search,%2035,%2034,%2027.%20Remove%20Elements%20.py)
+- **Day 2**:  - [Solution](link-to-your-solution)
 - ...
 
 > **Note**: The list will be updated daily with links to the problems and my solutions.
