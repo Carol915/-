@@ -14,7 +14,7 @@ My goal is to solve one or more LeetCode problems every day for 60 days. This ch
 
 ## Progress
 
-- **Day 1**: [Array Part01](link-to-problem) - [Solution](https://github.com/Carol915/-/blob/main/代码随想录算法训练营Day1%20Array01.py)
+- **Day 1**: [Array Part01](link-to-problem) - [Solution](https://github.com/Carol915/60-Days-of-Leetcode-/blob/main/Day1%20Array01%20%7C%20704.%20Binary%20Search%2C%2035%2C%2034%2C%2027.%20Remove%20Elements%20.py)
 - **Day 2**: [Problem Name](link-to-problem) - [Solution](link-to-your-solution)
 - ...
 
