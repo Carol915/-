@@ -14,7 +14,7 @@ My goal is to solve one or more LeetCode problems every day for 60 days. This ch
 
 ## Progress
 
-- **Day 1**: [Array Part01](link-to-problem) - [Solution](link-to-your-solution)
+- **Day 1**: [Array Part01](link-to-problem) - [Solution](https://github.com/Carol915/-/blob/main/代码随想录算法训练营Day1%20Array01.py)
 - **Day 2**: [Problem Name](link-to-problem) - [Solution](link-to-your-solution)
 - ...
 
