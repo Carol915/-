@@ -1,4 +1,4 @@
-# 代码随想录算法训练营 学习笔记 / 60 Days of LeetCode 
+# 60 Days of LeetCode / 代码随想录算法训练营 学习笔记 
 
 ## About
 
