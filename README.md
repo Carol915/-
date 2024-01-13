@@ -14,8 +14,8 @@ My goal is to solve one or more LeetCode problems every day for 60 days, and ach
 
 ## Progress
 
-- **Day 1**: Array Part01 | 704. Binary Search, 35, 34, 27. Remove Elements - [Solution](https://github.com/Carol915/60-Days-of-Leetcode-/blob/main/Solutions/Day1%20Array01%20%7C%20704.%20Binary%20Search,%2035,%2034,%2027.%20Remove%20Elements%20.py)
-- **Day 2**:  - [Solution](link-to-your-solution)
+- **Day 1**: Jan 10 Array01 | 704. Binary Search, 35, 34, 27. Remove Elements - [Solution](https://github.com/Carol915/60-Days-of-Leetcode-/blob/main/Solutions/Day1%20Array01%20%7C%20704.%20Binary%20Search,%2035,%2034,%2027.%20Remove%20Elements%20.py)
+- **Day 2**: Jan 11 Array02 | 977.有序数组的平方, 209.长度最小的子数组, 325, 59.螺旋矩阵II  - [Solution](https://github.com/Carol915/60-Days-of-Leetcode-/blob/main/Solutions/Day2%20Jan%2011%20Array02%20%7C%20977.有序数组的平方,%20209.长度最小的子数组,%20325,%2059.螺旋矩阵II.py)
 - ...
 
 > **Note**: The list will be updated daily with links to the problems and my solutions.
