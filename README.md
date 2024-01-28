@@ -16,6 +16,7 @@ My goal is to solve one or more LeetCode problems every day for 60 days, and ach
 
 - **Day 1**: Jan 10 Array01 | 704. Binary Search, 35, 34, 27. Remove Elements - [Solution](https://github.com/Carol915/60-Days-of-Leetcode-/blob/main/Solutions/Day1%20Jan%2010%20Array01%20%7C%20704.%20Binary%20Search%2C%2035%2C%2034%2C%2027.%20Remove%20Elements%20.py)
 - **Day 2**: Jan 11 Array02 | 977.有序数组的平方, 209.长度最小的子数组, 325, 59.螺旋矩阵II  - [Solution](https://github.com/Carol915/60-Days-of-Leetcode-/blob/main/Solutions/Day2%20Jan%2011%20Array02%20%7C%20977.有序数组的平方,%20209.长度最小的子数组,%20325,%2059.螺旋矩阵II.py)
+- **Day 3**: Jan 27 LinkedList01 | 203.移除链表元素, 707.设计链表, 206.反转链表 - [Solution](https://github.com/Carol915/60-Days-of-Leetcode-/blob/main/Solutions/Day3%20LinkedList01%20%7C%20203.移除链表元素%2C%20707.设计链表%2C%20206.反转链表.pdf)
 - ...
 
 > **Note**: The list will be updated daily with links to the problems and my solutions.
