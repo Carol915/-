@@ -17,7 +17,8 @@ My goal is to solve one or more LeetCode problems every day for 60 days, and ach
 - **Day 1**: Jan 10 Array01 | 704. Binary Search, 35, 34, 27. Remove Elements - [Solution](https://github.com/Carol915/60-Days-of-Leetcode-/blob/main/Solutions/Day1%20Array01%20%7C%20704.%20Binary%20Search%2C%2035%2C%2034%2C%2027.%20Remove%20Elements.py)
 - **Day 2**: Jan 11 Array02 | 977.有序数组的平方, 209.长度最小的子数组, 325, 59.螺旋矩阵II  - [Solution](https://github.com/Carol915/60-Days-of-Leetcode-/blob/main/Solutions/Day2%20Array02%20%7C%20977.有序数组的平方%2C%20209.长度最小的子数组%2C%20325%2C%2059.螺旋矩阵II.py)
 - **Day 3**: Jan 27 LinkedList01 | 203.移除链表元素, 707.设计链表, 206.反转链表 - [Solution](https://github.com/Carol915/60-Days-of-Leetcode-/blob/main/Solutions/Day3%20LinkedList01%20%7C%20203.移除链表元素%2C%20707.设计链表%2C%20206.反转链表.pdf)
-- ...
+- **Day 4**: Jan 28 LinkedList02 | 24.两两交换, 19.删除倒数第n个结点, 160.链表相交, 142. 环形链表II - [Solution](https://github.com/Carol915/60-Days-of-Leetcode-/blob/main/Solutions/Day4%20LinkedList02%20%7C%2024.两两交换%2C%2019.删除倒数第n个结点%2C%20160.链表相交%2C%20142.%20环形链表II.pdf)
+- **Day 5**: Feb 6
 
 > **Note**: The list will be updated daily with links to the problems and my solutions.
 
