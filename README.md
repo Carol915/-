@@ -22,7 +22,7 @@ Each chapter corresponds to a specific algorithm or data structure, with problem
  
 - **Chapter 3: Hash Tables**
 
-- **Chapter 9: Dynamic Programming**
+- **Chapter 9: Dynamic Programming** (coming up soon)
  
 > **Note**: This list will be updated continuously with links to new problems and solutions.
 
