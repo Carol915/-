@@ -1,44 +1,33 @@
-# 60 Days of LeetCode / 代码随想录算法训练营 学习笔记 
+# Caroline's LeetCode Solutions
 
 ## Introduction
 
-Welcome to my journey through a 60-day LeetCode challenge! My aim is to enhance my problem-solving abilities and coding proficiency by engaging with a diverse range of algorithmic challenges on LeetCode daily. The structure of this endeavor is inspired by Carl's "Programming Thoughts 代码随想录" (found at programmercarl.com), which thoughtfully compiles and categorizes 150 classic LeetCode questions, offering a more systematic approach to learning.
+Welcome to my LeetCode solutions repository! Here, I tackle a diverse array of algorithmic challenges, with each problem aimed at enhancing my problem-solving skills and deepening my understanding of key algorithms and data structures. Inspired by Carl's "Programming Thoughts 代码随想录" (found at programmercarl.com), this repository organizes LeetCode problems into **chapters**, each corresponding to a different algorithm or data structure. This structured approach ensures a comprehensive learning experience, rather than randomly selecting problems.
 
 ### What is LeetCode?
 
-[LeetCode](https://leetcode.com/) is a popular platform for improving coding skills and preparing for technical interviews. It offers a vast collection of programming problems across various domains, from data structures and algorithms to databases and shell scripting.
+[LeetCode](https://leetcode.com/) is a popular platform for improving coding skills and preparing for technical interviews. It offers a vast collection of programming problems across various domains, including data structures, algorithms, databases, and shell scripting.
 
-### Challenge Goal
+### Purpose
 
-My goal is to solve one or more LeetCode problems every day for 60 days, and achieve in total **150 Leetcode problems** by the end of the challenge. For each problem, I intend to explore it in-depth, **employing various methods** and **documenting my learning process through comprehensive study notes** (this is the essence of my solutions). This challenge is not just about solving problems but also about understanding and learning different algorithms and data structures.
+For each LeetCode problem I work on, I explore multiple solution methods and document my approach through comprehensive study notes. My focus is on building a solid understanding of problem-solving strategies rather than just obtaining a solution. Problems are grouped by topic (chapter) to allow for focused practice and mastery of specific algorithms.
 
-## Progress
+## Chapters
 
-- **Day 1**: Jan 10 Array01 | 704. Binary Search, 35, 34, 27. Remove Elements - [Solution](https://github.com/Carol915/60-Days-of-Leetcode-/blob/main/Solutions/Day1%20Array01%20%7C%20704.%20Binary%20Search%2C%2035%2C%2034%2C%2027.%20Remove%20Elements.py)
-- **Day 2**: Jan 11 Array02 | 977.有序数组的平方, 209.长度最小的子数组, 325, 59.螺旋矩阵II  - [Solution](https://github.com/Carol915/60-Days-of-Leetcode-/blob/main/Solutions/Day2%20Array02%20%7C%20977.有序数组的平方%2C%20209.长度最小的子数组%2C%20325%2C%2059.螺旋矩阵II.py)
-- **Day 3**: Jan 27 LinkedList01 | 203.移除链表元素, 707.设计链表, 206.反转链表 - [Solution](https://github.com/Carol915/60-Days-of-Leetcode-/blob/main/Solutions/Day3%20LinkedList01%20%7C%20203.移除链表元素%2C%20707.设计链表%2C%20206.反转链表.pdf)
-- **Day 4**: Jan 29 LinkedList02 | 24.两两交换, 19.删除倒数第n个结点, 160.链表相交, 142. 环形链表II - [Solution](https://github.com/Carol915/60-Days-of-Leetcode-/blob/main/Solutions/Day4%20LinkedList02%20%7C%2024.两两交换%2C%2019.删除倒数第n个结点%2C%20160.链表相交%2C%20142.%20环形链表II.pdf)
-- **Day 6**: Feb 6 HashTable01 | 242.有效的字母异位词, 349.两个数组的交集, 202.快乐数, 1.两数之和 - [Solution](https://github.com/Carol915/60-Days-of-Leetcode-/blob/main/Solutions/Day6%20HashTable01%20%7C%20242.有效的字母异位词%2C%20349.两个数组的交集%2C%20202.快乐数%2C%201.两数之和.pdf)
+Each chapter corresponds to a specific algorithm or data structure, with problems organized in increasing complexity within each chapter.
 
-> **Note**: The list will be updated daily with links to the problems and my solutions.
+- **Chapter 1: Arrays**
+  
+- **Chapter 2: Linked Lists**
+ 
+- **Chapter 3: Hash Tables**
+ 
+> **Note**: This list will be updated continuously with links to new problems and solutions.
 
-## Reflections
-
-After each week, I will share my reflections on the problems solved, challenges faced, and the learnings acquired.
-
-- [Week 1 Reflection](link-to-reflection)
-- [Week 2 Reflection](link-to-reflection)
-- ...
-
-## How to Navigate
-
-- The `solutions` directory contains all my solutions, categorized by the problem number.
-- The `reflections` directory hosts my weekly reflections and learnings.
 
 ## Contributing
 
-While this is a personal challenge, I'm open to discussions and suggestions! Feel free to open an issue for any questions or suggestions on alternative solutions.
+While this is a personal repository, I'm open to discussions and suggestions! Feel free to open an issue for any questions or suggestions on alternative solutions.
 
-## Stay Connected
 
-Follow my journey on [LinkedIn](https://www.linkedin.com/in/qitian-xing/).
+
