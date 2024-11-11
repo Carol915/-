@@ -22,9 +22,11 @@ Each chapter corresponds to a specific algorithm or data structure, with problem
  
 - [**Chapter 3: Hash Tables**](Solutions/Ch3_HashTable.pdf)
 
-- [**Chapter 9: Dynamic Programming Part 1**](Solutions/Ch9_Dynamic_Programming_1.pdf)
+- [**Chapter 9: Dynamic Programming Section 1**](Solutions/Ch9_Dynamic_Programming_1.pdf)
+  - Part1: Basic questions
+  - Part3: House Robber series
 
-- **Chapter 9: Dynamic Programming Part 2** (coming up soon)
+- **Chapter 9: Dynamic Programming Section 2** (coming up soon)
  
 > **Note**: This list will be updated continuously with links to new problems and solutions.
 
