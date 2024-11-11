@@ -18,11 +18,13 @@ Each chapter corresponds to a specific algorithm or data structure, with problem
 
 - [**Chapter 1: Arrays**](Solutions/Ch1_Array.pdf)
   
-- **Chapter 2: Linked Lists**
+- [**Chapter 2: Linked Lists**](Solutions/Ch2_LinkedList.pdf)
  
-- **Chapter 3: Hash Tables**
+- [**Chapter 3: Hash Tables**](Solutions/Ch3_HashTable.pdf)
 
-- **Chapter 9: Dynamic Programming** (coming up soon)
+- [**Chapter 9: Dynamic Programming Part 1**](Solutions/Ch9_Dynamic_Programming_1.pdf)
+
+- **Chapter 9: Dynamic Programming Part 2** (coming up soon)
  
 > **Note**: This list will be updated continuously with links to new problems and solutions.
 
