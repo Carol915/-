@@ -23,10 +23,15 @@ Each chapter corresponds to a specific algorithm or data structure, with problem
 - [**Chapter 3: Hash Tables**](Solutions/Ch3_HashTable.pdf)
 
 - [**Chapter 9: Dynamic Programming Section 1**](Solutions/Ch9_Dynamic_Programming_1.pdf)
-  - Part1: Basic questions
-  - Part3: House Robber series
+  - Part1: Basic Questions
+  - Part2: House Robber Series
 
 - **Chapter 9: Dynamic Programming Section 2** (coming up soon)
+  - Part3: Knapsack Problems
+ 
+- **Chapter 9: Dynamic Programming Section 3** (coming up soon)
+  - Part4: Best Time to Buy and Sell Stock Series
+  - Part5: Sebsequence Problems
  
 > **Note**: This list will be updated continuously with links to new problems and solutions.
 
