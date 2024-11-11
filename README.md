@@ -16,7 +16,7 @@ For each LeetCode problem I work on, I explore multiple solution methods and doc
 
 Each chapter corresponds to a specific algorithm or data structure, with problems organized in increasing complexity within each chapter.
 
-- **Chapter 1: Arrays**
+- [**Chapter 1: Arrays**](Solutions/Ch1_Array.pdf)
   
 - **Chapter 2: Linked Lists**
  
